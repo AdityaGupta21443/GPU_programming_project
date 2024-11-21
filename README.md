@@ -1,4 +1,4 @@
-# GPU_ASS_SHUBHAM
+# GPU_programming_project
 # GPU_Assignment
 
 # Features
